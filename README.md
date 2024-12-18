@@ -3,7 +3,7 @@
 <div style="display: inline_block">
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=wanderson-os&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderson-os&layout=compact&theme=tokyonight"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wandersonos"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wandersonos&layout=compact&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
